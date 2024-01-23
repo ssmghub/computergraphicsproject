@@ -1,0 +1,84 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (A3_Wedding_Lab8.vcxproj, Lab8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gl3w.c
+  A3_countryside.cpp
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\include\file.h(18,35): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\include\shadow.h(47,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\include\shadow.h(48,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\include\shadow.h(49,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\include\casteljau_3d.h(33,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\include\casteljau_3d.h(55,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\parseOBJ.h(97,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(219,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(220,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(227,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(228,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(264,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(265,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(272,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(273,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(302,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(303,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(310,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(311,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(318,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(319,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(349,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(350,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(357,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(358,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(365,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\vertObj.h(366,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(18,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(77,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(84,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(93,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(94,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(128,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(129,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(158,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(169,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(176,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(192,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(223,21): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(231,21): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(243,21): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(256,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(271,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(288,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(294,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(308,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(321,20): warning C4244: 'argument': conversion from 'float' to 'GLuint', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(329,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(330,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(360,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\drawObj.h(361,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(205,35): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(206,27): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(207,27): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(210,30): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(211,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(212,30): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(213,36): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(213,27): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(214,34): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(215,25): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(216,28): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(230,47): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(231,39): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(232,39): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(233,46): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(234,42): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(235,48): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(235,39): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(236,42): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(237,46): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(238,37): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\Lab8\A3_countryside.cpp(239,40): warning C4244: 'argument': conversion from 'GLuint' to 'float', possible loss of data
+  objParse.cpp
+  objParse.h
+  Generating Code...
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\include\bitmap.h(54): warning C4715: 'loadbitmap': not all control paths return a value
+C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\include\bitmap.h(81): warning C4715: 'savebitmap': not all control paths return a value
+x64\Debug\objParse.obj : warning LNK4042: object specified more than once; extras ignored
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Lab8.vcxproj -> C:\Users\psxss27\OneDrive - The University of Nottingham\COMP3011_ASSESSMENT_3\A3_countryside\x64\Debug\A3_countryside.exe
